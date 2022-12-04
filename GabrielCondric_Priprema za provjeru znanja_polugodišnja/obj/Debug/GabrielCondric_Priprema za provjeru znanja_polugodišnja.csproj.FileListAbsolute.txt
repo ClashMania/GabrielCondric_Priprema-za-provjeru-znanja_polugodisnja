@@ -1,0 +1,8 @@
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\bin\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.exe.config
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\bin\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.exe
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\bin\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.pdb
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\obj\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.csproj.AssemblyReference.cache
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\obj\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.csproj.SuggestedBindingRedirects.cache
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\obj\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.csproj.CoreCompileInputs.cache
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\obj\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.exe
+C:\Users\heist\Documents\Code\GabrielCondric_Priprema za provjeru znanja_polugodišnja\obj\Debug\GabrielCondric_Priprema za provjeru znanja_polugodišnja.pdb
